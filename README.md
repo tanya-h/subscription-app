@@ -1,10 +1,11 @@
 # subscription-app
  BUILD
  ~~~~~
-javac *
+$ javac *
+
 
 RUN
-~~~~~
-java SP_Server
+~~~
+$ java SP_Server
 (new tab)
-java SP_Client
+$ java SP_Client
