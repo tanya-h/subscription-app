@@ -1,11 +1,9 @@
 # subscription-app
- BUILD
- ~~~~~
+BUILD
 $ javac *
 
 
- RUN
- ~~~
+RUN
 $ java SP_Server
 (new tab)
 $ java SP_Client
